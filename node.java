@@ -7,7 +7,7 @@ public class node
         
         //Node Constructor
       node(int d)
-        {
+        {  
           //setting data to d
             data = d;
             //making the next node null
