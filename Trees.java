@@ -5,7 +5,7 @@ public class Trees
 { 
  Node tree;
  //Constructor for Trees
- public Trees()
+ public Trees() 
  {
   this.tree = null;
  }
