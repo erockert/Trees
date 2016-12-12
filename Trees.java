@@ -22,7 +22,7 @@ public class Trees
   this.insert(this.tree, newNode);
  }
  //print method
- public void print() 
+ public void print()  
  {
   print(this.tree);
  }
